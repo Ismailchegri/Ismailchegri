@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IsmailChegri</h1>
+<h1 align="center">Hi 👋, I'm Ismail Chegri</h1>
 <h3 align="center">A passionate software developer </h3>
 
 - ⚡ Fun fact **i think i'm too serious at work, and a lot funny at free times**
